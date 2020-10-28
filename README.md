@@ -1,2 +1,2 @@
-# ice-shell
+# Ice
 A Basic Pyhton Shell
