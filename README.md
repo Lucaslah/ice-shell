@@ -5,4 +5,4 @@ A Basic Pyhton Shell
 
 ## Installing
 Easy Install: Run in your Terminal<p>
-`https://raw.githubusercontent.com/Lucaslah/ice-shell/main/install.sh | sh`
+`curl https://raw.githubusercontent.com/Lucaslah/ice-shell/main/install.sh | sh`
